@@ -1,2 +1,2 @@
-http://skyweebb.github.io/landing_page/
+http://skyyyskyyy.github.io/landing_page/
 Landing page example
