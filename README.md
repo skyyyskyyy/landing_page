@@ -1,2 +1,2 @@
-# landing_page
-Bootstrap landing
+http://skyweebb.github.io/landing_page/
+Landing page example
